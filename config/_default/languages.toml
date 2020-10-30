@@ -7,8 +7,7 @@
   languageName = "Français"
   contentDir = "content/fr"
 
-[en]
-  languageCode = "en-us"
-  languageName = "English"
-  contentDir = "content/en"
-
+# [en]
+#   languageCode = "en-us"
+#   languageName = "English"
+#   contentDir = "content/en"
